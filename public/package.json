@@ -21,6 +21,6 @@
   },
   "devDependencies": {
     "jshint": "^2.10.1",
-    "webpack": "^3.5.5"
+    "webpack": "^5.75.0"
   }
 }
